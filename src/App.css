@@ -11,7 +11,7 @@ color: white;
 }
 button.login-bt{
   width: 100%;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     padding: 5px;
     cursor: pointer;
     font-size: 18px;
@@ -22,9 +22,20 @@ button.login-bt{
   background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 0)), linear-gradient(101deg, #78e4ff, #ff48fa);
   background-origin: border-box;
   background-clip: content-box, border-box;
-  box-shadow: 2px 1000px 1px #fff inset;
+  background: none;
 
 }
+button.login-bt:hover{
+
+  background-image: linear-gradient(to right, #F09819 0%, #EDDE5D  51%, #F09819  100%);
+  color: black;
+  animation-duration: 2s;
+  animation-fill-mode: forwards;
+  cursor: pointer;
+  box-shadow: 3px 4px 10px black;
+  transform-style: preserve-3d;
+}
+
 
 button2{
 
@@ -97,6 +108,7 @@ html, body, #root, .all {
     padding: 20px;
     border-radius: 15px;
     box-shadow: 3px 5px 15px black;
+    background-color: rgba(0, 0, 0, 0.178);
 }.login-form-inner h1{
   font-size: 19px;
   align-items: center;

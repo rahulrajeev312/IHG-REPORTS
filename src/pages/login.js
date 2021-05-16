@@ -3,6 +3,7 @@ import '../App.css';
 import { useHistory } from "react-router-dom";
 import { FaUserAlt } from 'react-icons/fa';
 import { BsFillLockFill } from "react-icons/bs";
+import { render } from "@testing-library/react";
 
 
 function Login() {

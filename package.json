@@ -1,6 +1,6 @@
 {
-  "homepage": "https://rahulrajeev312.github.io/IHG-REPORTS",
-  "name": "IHG-REPORTS",
+  "homepage": "https://rahulrajeev312.github.io/IHGREPORTS",
+  "name":"myproject",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
