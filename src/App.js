@@ -6,7 +6,7 @@ import report from "./pages/report";
 function App(){
   return(
     <Router>
-      <Route component={Login} exact path="/"/>
+      <Route component={Login} exact path="/login"/>
       <Route component={report} exact path="/report"/>
     </Router>
     
