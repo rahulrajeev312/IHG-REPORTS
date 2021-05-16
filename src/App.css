@@ -38,7 +38,8 @@ button.login-bt:hover{
 }
 
 .active-btn {
-  background-color: #112fb8;
+  background-color: #222222;
+  color: white;
 }
 
 button2{
