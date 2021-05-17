@@ -44,9 +44,7 @@ alert("invlaid username")
   </img>
 </a>
   <nav>
-<a href="#">Home</a>
-<a href="#">About</a>
-<a href="#">Contact</a>
+
 </nav>
 </div>
 <div className="login-form">
