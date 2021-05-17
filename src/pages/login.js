@@ -13,7 +13,7 @@ function Login() {
   const onclick1 = () => {
 
   console.log (username,pwrd)
-  if(username === "admin"  && pwrd === "password") {
+  if(username === "admin"  && pwrd === "3274") {
     history.push("/report");
   }
   else
