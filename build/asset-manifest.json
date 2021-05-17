@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.cfd0260c.chunk.css",
-    "main.js": "/static/js/main.c6a60548.chunk.js",
-    "main.js.map": "/static/js/main.c6a60548.chunk.js.map",
+    "main.css": "/static/css/main.b9badcaa.chunk.css",
+    "main.js": "/static/js/main.65ab7dca.chunk.js",
+    "main.js.map": "/static/js/main.65ab7dca.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.bcc4585c.js",
     "runtime-main.js.map": "/static/js/runtime-main.bcc4585c.js.map",
     "static/js/2.8118cdc3.chunk.js": "/static/js/2.8118cdc3.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.9d661e31.chunk.js": "/static/js/3.9d661e31.chunk.js",
     "static/js/3.9d661e31.chunk.js.map": "/static/js/3.9d661e31.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.cfd0260c.chunk.css.map": "/static/css/main.cfd0260c.chunk.css.map",
+    "static/css/main.b9badcaa.chunk.css.map": "/static/css/main.b9badcaa.chunk.css.map",
     "static/js/2.8118cdc3.chunk.js.LICENSE.txt": "/static/js/2.8118cdc3.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall.4562a76b.jpg"
+    "static/media/App.css": "/static/media/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall.398b0a7b.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.bcc4585c.js",
     "static/js/2.8118cdc3.chunk.js",
-    "static/css/main.cfd0260c.chunk.css",
-    "static/js/main.c6a60548.chunk.js"
+    "static/css/main.b9badcaa.chunk.css",
+    "static/js/main.65ab7dca.chunk.js"
   ]
 }
