@@ -1,3 +1,3 @@
-[submodule "C:\Users\Rahul\Documents\myproject\myproject\src\.gitmodules"]
-path = C:\Users\Rahul\Documents\myproject\myproject\src\.gitmodules
+[submodule "src\.gitmodules"]
+path = src\.gitmodules
 url = https://github.com/rahulrajeev312/IHG-REPORTS.git
