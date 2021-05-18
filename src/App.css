@@ -56,7 +56,7 @@ button.login-bt:hover{
 .active-btn {
   background-color: #222222;
   color: white;
-  font-size: 14px;
+  font-size: 11px;
 }
 
 button2{
@@ -68,7 +68,7 @@ button2{
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 12px;
+  font-size: 10px;
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
@@ -77,13 +77,17 @@ button2{
   margin-left: 20px;
   border-radius: 2px;
   border: 4px solid rgb(241, 159, 7);
+  width: 200PX;
+  height: 16PX;
+  table-layout: fixed;
+  
 }
 button2:hover{
 
   color: #fff;
   border: 4px solid rgb(241, 159, 7);
   background-color:rgba(10, 10, 10, 0);
-  font-size: 18px;
+  font-size: 12px;
   
 
 }
